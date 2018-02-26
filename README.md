@@ -17,7 +17,7 @@ The project was developed with Lua and Love2D framework. Main goal of project fo
 
 ## How to build?
 Pretty simple! All the files from framework are already here.
-Just clone the repository and move ConwayLife folder on love.exe.
+Just clone the repository, create a folder with main.lua and move it on love.exe.
 If you are on Linux or Mac, you can find needed package here - https://love2d.org/
 
 ## Some screenshots?
